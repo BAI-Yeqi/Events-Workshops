@@ -1,0 +1,26 @@
+time duration: from 2018-01-14 11:48:03.661570 to 2018-01-14 11:48:03.747631
+      there are 1 users  
+time duration: from 2018-01-14 11:48:03.825686 to 2018-01-14 11:48:03.909746
+      there are 0 users  
+time duration: from 2018-01-14 11:48:04.317034 to 2018-01-14 11:48:04.399092
+      there are 1 users  
+time duration: from 2018-01-14 11:48:04.399092 to 2018-01-14 11:48:04.475146
+      there are 0 users  
+time duration: from 2018-01-14 11:48:05.949189 to 2018-01-14 11:48:06.023241
+      there are 1 users  
+time duration: from 2018-01-14 11:48:06.023241 to 2018-01-14 11:48:06.100297
+      there are 0 users  
+time duration: from 2018-01-14 11:48:06.193362 to 2018-01-14 11:48:06.276420
+      there are 1 users  
+time duration: from 2018-01-14 11:48:06.276420 to 2018-01-14 11:48:06.352474
+      there are 0 users  
+time duration: from 2018-01-14 11:48:06.449543 to 2018-01-14 11:48:06.526597
+      there are 1 users  
+time duration: from 2018-01-14 11:48:06.763765 to 2018-01-14 11:48:06.842822
+      there are 0 users  
+time duration: from 2018-01-14 11:48:07.511295 to 2018-01-14 11:48:07.591351
+      there are 1 users  
+time duration: from 2018-01-14 11:48:07.591351 to 2018-01-14 11:48:07.666405
+      there are 0 users  
+time duration: from 2018-01-14 11:48:07.917582 to 2018-01-14 11:48:07.994636
+      there are 1 users  
