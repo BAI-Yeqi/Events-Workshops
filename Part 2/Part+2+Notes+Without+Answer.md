@@ -25,7 +25,7 @@ from time import sleep
 #### 4. Create a file object named 'f' , with file name 'user numbers log.txt' and mode 'w+'
 
 
-<img src='/imgs/fileio.jpg', width='100%'>
+<img src="/imgs/fileio.jpg" width='100%'>
 
 reference: https://docs.python.org/3/tutorial/inputoutput.html
 > 'w+'
