@@ -5,9 +5,6 @@ import cv2
 print ("openCV version:"+cv2.__version__)
 
 # Get user supplied values
-
-#here full path is needed to avoid an error in "gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)"
-#see: [https://stackoverflow.com/questions/30506126/open-cv-error-215-scn-3-scn-4-in-function-cvtcolor]
 imagePath = "./abba.png"
 cascPath = "./haarcascade_frontalface_default.xml"
 
