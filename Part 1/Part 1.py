@@ -1,3 +1,12 @@
+"""
+
+UAVionics-IET Machine Learning Workshop
+
+Author: Bai Yeqi
+
+"""
+
+
 import cv2
 
 #check version of library:
