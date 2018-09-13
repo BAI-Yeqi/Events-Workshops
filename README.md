@@ -1,3 +1,3 @@
 # Events-Workshops
 
-This file record all the workshops and events conducted by Bai Yeqi.
+This repo records all the workshops and events conducted by Bai Yeqi.
