@@ -1,0 +1,6 @@
+v3: 
+    1. enabled Recall@20 metric at test data
+    2. enabled pass in arguments through python dictionary
+    
+v4:
+    1. implementing the GPU config

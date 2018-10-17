@@ -1,0 +1,38 @@
+This file is to record the development process of the GRU4REC model
+
+a. Input of model: 
+    one-hot item id (connected to a trainable embedding)
+    processed vec of the item description
+    
+    if you also count the hidden state from step t-1: 
+    the softmax activated group of hidden state 9same size with num_units in GRU from the previous step
+    
+    
+b. Output of the model:
+    a softmax activated group of scores, which measures the probability of each item
+    
+    
+    
+    
+c. Modify the config file, input the hyperparameters for GRU4REC
+    "num_steps": 2,             suppose we are not doing the multi-length sequence at the first place
+    "emb_size": 150,            suppose the dimension to be 150
+    "w2v_size": 1000,           words to vectors input
+    "num_item": 10000000,       item amount in Shopee SG
+    "num_layers": 1,            number of layers, currently we are not planning to employ deep GRU/RNN
+    "dropout": 0.0,             portion of neurons to dropout
+    "num_units_4emb": 300,      number of hidden units for the embedding based GRU
+    "
+    
+    
+d. About building embeddings:
+    need to find a way to save the embedding trained
+   
+    
+e. About data enhancement:
+    if we want to do the data enhancement which augments the data by different time steps
+    seems at least the step length of data in same batch need to be the same 
+    i.e. we need to create multiple group of training data with their own labeling
+    
+f. About the shape of the label / model-I/O:
+    I guess to keep the shape of index input and y the same is a must
